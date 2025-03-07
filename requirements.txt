@@ -1,0 +1,4 @@
+pyinstaller==6.6.0
+pywin32==306
+pystray==0.19.3
+Pillow==10.3.0
